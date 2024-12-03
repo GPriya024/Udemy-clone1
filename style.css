@@ -109,7 +109,7 @@ body {
 
 .sale-image__offer {
     position: absolute;
-    background-color: white;
+    background-color: snow;
     border: solid black 1px;
     width: 35%;
     top: 10%;
